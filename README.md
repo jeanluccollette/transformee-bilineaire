@@ -33,3 +33,5 @@ Avec les relations préalablement établies, il apparaît que $\\sigma = 0$ pour
 Par ailleurs, pour $r = 1$ :
 
 $$\\omega = \\frac{2 \\tan{\\left(\\frac{\\Omega T_{e}}{2} \\right)}}{T_{e}}$$
+
+Ainsi, $H(j\omega) \approx R(e^{j\Omega T_e})$, mais avec la relation ci-dessus liant $\\omega$ et $\Omega$.
