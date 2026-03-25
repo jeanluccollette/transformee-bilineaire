@@ -1,1 +1,1 @@
-# transformee-bilineaire
+# Propriétés de la transformée bilinéaire
