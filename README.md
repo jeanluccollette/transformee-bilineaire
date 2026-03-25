@@ -24,4 +24,4 @@ $$\\sigma = \\Re(p) = \\frac{2 \\left(r^{2} - 1\\right)}{T_{e} \\left(r^{2} + 2 
 
 $$\\omega = \\Im(p) = \\frac{4 r \\sin{\\left(\\Omega T_{e} \\right)}}{T_{e} \\left(r^{2} + 2 r \\cos{\\left(\\Omega T_{e} \\right)} + 1\\right)}$$
 
-Dès lors, le disque unité ($r \\lt 1$) dans le plan complexe des $z$ est transformée en le demi-plan gauche ($\\sigma \\lt $) dans le plan complexe des $p$.
+Dès lors, le disque unité ($r \\lt 1$) dans le plan complexe des $z$ est transformé en le demi-plan gauche ($\\sigma \\lt 0$) dans le plan complexe des $p$.
