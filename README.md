@@ -8,9 +8,9 @@ $R(z)$ d'un système à temps discret, via le changement de variable dont l'expr
 $$p = \\frac{2 \\left(1 - z^{-1}\\right)}{T_{e} \\left(1 + z^{-1}\\right)}$$
 
 Dans cette expression, $T_e$ est la période d'échantillonnage qui détermine le fonctionnement des conversions analogique-numérique et numérique-analogique.
-Les réponses harmoniques associées sont respectivement $H(j\omega)$ avec $0 \leq \omega \lt +\infty$ et $R(e^{j\Omega T_e})$ avec $0 \leq \Omega \lt \dfrac{\pi}{T_e}$.
+Les réponses harmoniques associées sont respectivement $H(i\omega)$ avec $0 \leq \omega \lt +\infty$ et $R(e^{i\Omega T_e})$ avec $0 \leq \Omega \lt \dfrac{\pi}{T_e}$.
 
-L'idée est de faire en sorte que $H(j\omega) \approx R(e^{j\Omega T_e})$ pour $\omega=\Omega \ll \dfrac{\pi}{T_e}$.
+L'idée est de faire en sorte que $H(i\omega) \approx R(e^{i\Omega T_e})$ pour $\omega=\Omega \ll \dfrac{\pi}{T_e}$.
 
 ## Conservation de la stabilité
 
@@ -18,7 +18,7 @@ En posant $z = r e^{i \\Omega T_{e}}$, la transformation devient :
 
 $$p = \\frac{2 \\left(1 - \\frac{e^{- i \\Omega T_{e}}}{r}\\right)}{T_{e} \\left(1 + \\frac{e^{- i \\Omega T_{e}}}{r}\\right)}$$
 
-En posant $p = \sigma + j \omega$, on obtient :
+En posant $p = \sigma + i \omega$, on obtient :
 
 $$\\sigma = \\Re(p) = \\frac{2 \\left(r^{2} - 1\\right)}{T_{e} \\left(r^{2} + 2 r \\cos{\\left(\\Omega T_{e} \\right)} + 1\\right)}$$
 
@@ -40,4 +40,4 @@ Ainsi, $H(j\omega) = R(e^{j\Omega T_e})$, mais avec la relation ci-dessus liant 
 
 ## Conclusion
 
-Ce changement de variable sur $H(p)$, utilisant la transformation bilinéaire,  donne accès à une fonction $R(z)$ telle que $H(j\omega) \approx R(e^{j\Omega T_e})$ pour $\omega=\Omega \ll \dfrac{\pi}{T_e}$
+Ce changement de variable sur $H(p)$, utilisant la transformation bilinéaire,  donne accès à une fonction $R(z)$ telle que $H(i\omega) \approx R(e^{i\Omega T_e})$ pour $\omega=\Omega \ll \dfrac{\pi}{T_e}$
