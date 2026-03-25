@@ -28,4 +28,4 @@ Dès lors, le disque unité ($r \\lt 1$) dans le plan complexe des $z$ est trans
 
 ## Relation sur les réponses harmoniques
 
-Avec les relations préalablement établies, il apparaît que $\\sigma = 0$ pour $r = >1$. L'axe imaginaire est donctransformé en lui-même 
+Avec les relations préalablement établies, il apparaît que $\\sigma = 0$ pour $r = 1$. L'axe imaginaire est donctransformé en lui-même 
