@@ -34,4 +34,4 @@ Par ailleurs, pour $r = 1$ :
 
 $$\\omega = \\frac{2 \\tan{\\left(\\frac{\\Omega T_{e}}{2} \\right)}}{T_{e}}$$
 
-Ainsi, $H(j\omega) \approx R(e^{j\Omega T_e})$, mais avec la relation ci-dessus liant $\\omega$ et $\Omega$.
+Ainsi, $H(j\omega) = R(e^{j\Omega T_e})$, mais avec la relation ci-dessus liant $\\omega$ et $\Omega$. Il faut cependant remarquer que $\\omega) \\approx \\Omega$ pour $\Omega \ll \dfrac{\pi}{T_e}$
