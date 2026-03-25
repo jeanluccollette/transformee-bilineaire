@@ -11,4 +11,4 @@ Dans cette expression, $T_e$ est la période d'échantillonnage qui détermine l
 
 $$H(j\omega)$$
 
-$$R(e^{j\Omega T_e})
+$$R(e^{j\Omega T_e})$$
