@@ -11,3 +11,6 @@ Dans cette expression, $T_e$ est la période d'échantillonnage qui détermine l
 Les réponses harmoniques associées sont respectivement $H(j\omega)$ avec $0 \leq \omega \lt +\infty$ et $R(e^{j\Omega T_e})$ avec $0 \leq \Omega \lt \dfrac{\pi}{T_e}$.
 
 L'idée est de faire en sorte que $H(j\omega) \approx R(e^{j\Omega T_e})$ pour $\omega=\Omega \ll \dfrac{\pi}{T_e}$.
+
+## Conservation de la stabilité
+
