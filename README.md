@@ -37,3 +37,7 @@ $$\\Omega = \\frac{2 \\arctan{\\left(\\frac{T_{e} \\omega}{2} \\right)}}{T_{e}}$
 $$\\omega = \\frac{2 \\tan{\\left(\\frac{\\Omega T_{e}}{2} \\right)}}{T_{e}}$$
 
 Ainsi, $H(j\omega) = R(e^{j\Omega T_e})$, mais avec la relation ci-dessus liant $\\omega$ et $\Omega$. Il faut cependant remarquer que $\\omega \\approx \\Omega$ pour $\Omega \ll \dfrac{\pi}{T_e}$
+
+## Conclusion
+
+Ce changement de variable sur $H(p)$, utilisant la transformation bilinéaire,  donne accès à une fonction $R(z)$ telle que $H(j\omega) \approx R(e^{j\Omega T_e})$ pour $\omega=\Omega \ll \dfrac{\pi}{T_e}$
