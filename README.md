@@ -14,7 +14,11 @@ L'idée est de faire en sorte que $H(j\omega) \approx R(e^{j\Omega T_e})$ pour $
 
 ## Conservation de la stabilité
 
-En posant $z = r e^{- i \\Omega T_{e}}$
+En posant $z = r e^{- i \\Omega T_{e}}$, la transformation devient :
 
 $$p = \\frac{2 \\left(1 - \\frac{e^{- i \\Omega T_{e}}}{r}\\right)}{T_{e} \\left(1 + \\frac{e^{- i \\Omega T_{e}}}{r}\\right)}$$
+
+En posant $p = \sigma + j \omega$, on obtient :
+
+$$\sigma = \\Re(p) = \\frac{2 \\left(r^{2} - 1\\right)}{T_{e} \\left(r^{2} + 2 r \\cos{\\left(\\Omega T_{e} \\right)} + 1\\right)}$$
 
