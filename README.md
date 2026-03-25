@@ -7,7 +7,7 @@ $R(z)$ d'un système à temps discret, via le changement de variable dont l'expr
 
 $$p = \\frac{2 \\left(1 - z^{-1}\\right)}{T_{e} \\left(1 + z^{-1}\\right)}$$
 
-Dans cette expression, $T_e$ est la période d'échantillonnage qui détermine le fonctionnement de la conversion analogique-numérique.
+Dans cette expression, $T_e$ est la période d'échantillonnage qui détermine le fonctionnement des conversions analogique-numérique et numérique-analogique.
 Les réponses harmoniques associées sont respectivement $H(j\omega)$ avec $0 \leq \omega \lt +\infty$ et $R(e^{j\Omega T_e})$ avec $0 \leq \Omega \lt \dfrac{\pi}{T_e}$.
 
 L'idée est de faire en sorte que $H(j\omega) \approx R(e^{j\Omega T_e})$ pour $\omega=\Omega \ll \dfrac{\pi}{T_e}$.
