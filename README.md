@@ -24,7 +24,7 @@ $$\\sigma = \\Re(p) = \\frac{2 \\left(r^{2} - 1\\right)}{T_{e} \\left(r^{2} + 2 
 
 $$\\omega = \\Im(p) = \\frac{4 r \\sin{\\left(\\Omega T_{e} \\right)}}{T_{e} \\left(r^{2} + 2 r \\cos{\\left(\\Omega T_{e} \\right)} + 1\\right)}$$
 
-Le terme $\\left(r^{2} + 2 r \\cos{\\left(\\Omega T_{e} \\right)} + 1\\right)$ au dénominateur de ces expressions. Dès lors, le disque unité ($r \\lt 1$) dans le plan complexe des $z$ est transformé en le demi-plan gauche ($\\sigma \\lt 0$) dans le plan complexe des $p$. La stabilité est donc préservée lors du changement de variable.
+Le terme $\\left(r^{2} + 2 r \\cos{\\left(\\Omega T_{e} \\right)} + 1\\right)$ au dénominateur de ces expressions vaut $\\sin{\\left(\\Omega T_{e} \\right)}^2$ lorsque la dérivée s'annule. Dès lors, le disque unité ($r \\lt 1$) dans le plan complexe des $z$ est transformé en le demi-plan gauche ($\\sigma \\lt 0$) dans le plan complexe des $p$. La stabilité est donc préservée lors du changement de variable.
 
 ## Relation sur les réponses harmoniques
 
