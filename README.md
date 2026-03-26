@@ -30,7 +30,7 @@ Le terme $\\left(r^{2} + 2 r \\cos{\\left(\\Omega T_{e} \\right)} + 1\\right)$ a
 
 Avec les relations préalablement établies, il apparaît que $\\sigma = 0$ pour $r = 1$. Le cercle unité est donc transformé en l'axe imaginaire.
 
-Par ailleurs, pour $r = 1$ :
+Dans ces conditions :
 
 $$\\Omega = \\frac{2 \\arctan{\\left(\\frac{T_{e} \\omega}{2} \\right)}}{T_{e}}$$
 
